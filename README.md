@@ -3,7 +3,6 @@ The aim of a gas detection sensor is to detect the presence of a particular gas 
 
 GAS DETECTION SYSYTEM
 
-
 AIM: The aim of a gas detection sensor is to detect the presence of a particular gas or gases in the surrounding environment.
 
 Description of Block Diagram : In this block diagram we can see that Arduino board is acting like a microcontroller.
